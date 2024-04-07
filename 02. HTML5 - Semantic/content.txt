@@ -15,6 +15,3 @@ article - website ke andar jo sub elements hoge unko article mein daal sakte hia
 section  - pages of website
 audio -  audio support dene ke liyein
 video - video support dene ke liyein
-
-
-
